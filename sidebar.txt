@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[orx:home|Door43 (orx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-orx|d43-orx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-orx/archive/master.zip|d43-orx.zip]]
+
+**Recent Changes**
+{{changes>ns = orx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/orx|Ethnologue data]]
+
